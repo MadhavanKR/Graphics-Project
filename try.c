@@ -2,7 +2,7 @@
 #include<GL/glut.h>
 #include<math.h>
 #include<string.h>
-
+//comment
 GLfloat transx=0.0;
 GLfloat transy=0.0,angle=1;;
 GLfloat flag=0,start=0;
